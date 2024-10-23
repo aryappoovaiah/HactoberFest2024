@@ -53,3 +53,4 @@
 | Aditya Pandey |<a href="https://github.com/Aditya7pandey">Aditya7pandey</a>|
 | Yash Bandal |<a href="https://github.com/Yash-Bandal">Yash Bandal</a>|
 | Harshit Jaiswal |<a href="https://github.com/harshu84190">Harshit Jaiswal</a>|
+| Arya Poovaiah Machamada |<a href="https://github.com/aryappoovaiah">aryappoovaiah</a>|
